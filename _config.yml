@@ -3,15 +3,15 @@ title: Mariage Jeanne et Thibaut
 subtitle: <3 Jesus
 email: thibaut.piquard@gmail.com
 description: Site du mariage de Jeanne et Thibaut. Toutes les informations dont vous reviez, et plus encore.
-#baseurl: "/accueil" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-#author:
-#street_address: 1234 Somewhere Road
-#city: Nashville
-#state: TN
-#zip_code: 55555
-#country: United States of America
-#phone: (716) 555-5555
+author:
+street_address: 1234 Somewhere Road
+city: Nashville
+state: TN
+zip_code: 55555
+country: United States of America
+phone: (716) 555-5555
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
