@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Messe de mariage
-description: Messe de mariage
+nav-menu:True
 image: assets/images/choristes.jpg
 ---
 
