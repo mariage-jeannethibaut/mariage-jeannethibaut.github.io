@@ -6,7 +6,7 @@ image: assets/images/percy_vercors.jpg
 nav-menu: true
 ---
 
-Nous serons heureux de vous retrouver après la messe à la Grange du Percy (38930) à partir de <b>17h<b> pour le cocktail.
+Nous serons heureux de vous retrouver après la messe à la Grange du Percy (38930) à partir de <b>17h<\b> pour le cocktail.
 
 Les réjouissances seront suivies d'un dîner et d'une soirée jusqu'au bout de la nuit Isèroise.
 
