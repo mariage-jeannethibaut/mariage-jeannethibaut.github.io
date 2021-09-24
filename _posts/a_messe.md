@@ -2,6 +2,7 @@
 layout: post
 title: Messe de mariage
 description: Messe de mariage
+image: assets/images/choristes.jpg
 ---
 
 La messe de mariage aura lieu à l'église de Monestier de Clermont (38650) à 15h.
