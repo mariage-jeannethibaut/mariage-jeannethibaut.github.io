@@ -14,4 +14,4 @@ La messe de mariage aura lieu à l'église de Monestier de Clermont (38650) à 1
 
 Les places de parking sont limitées (expliquer comment se garer).
 
-Autre info
+Autre info?
