@@ -17,7 +17,7 @@ La gare de Clelles se trouve à 5 km du Percy.</p>
 Pour proposer et demander des places de covoiturage, suivre le lien suivant:</p>
 
 <ul class="actions">
-	<li><a href="https://www.covoitribu.fr/" class="button">Default</a></li>
+	<li><a href="https://www.covoitribu.fr/" class="button">Covoitribu</a></li>
 </ul>
 
 <h2>Stationnement</h2>
