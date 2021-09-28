@@ -12,5 +12,5 @@ nav-menu: true
 </ul>
 
 
-<p>Pour les plus courageux, il est aussi possible de camper dans la neige ou de dormir dans la salle des fêtes après la soirée.</p>
+<p>Pour les plus courageux, il est aussi possible de camper dans la neige ou de dormir SUR PLACE dans la salle des fêtes après la soirée.</p>
 
