@@ -9,15 +9,14 @@ nav-menu: true
 En train
 ====
 
-A partir de la gare de la gare de Grenoble, vous pouvez emprunter la splendide ligne Grenoble-Gap, et descendre à Monestier de Clermont pour l'église ou Clelles.
-La gare de Clelles se trouve à 5 km du Percy. Les horaires sont disponibles ici : https://www.oui.sncf/train/horaires/grenoble/gap
+A partir de la gare de la gare de Grenoble, vous pouvez emprunter la splendide ligne Grenoble-Gap, et descendre à l'arrêt Monestier pour la cérémonie religieuse, et à l'arrêt Clelles pour le cocktail et la soirée. Clelles se trouve à 5 km du lieu de réception.
 
-N'hésitez pas à demander des trajets en covoiturage à partir de Monestier et au retour pour trouver un véhicule sur place.
+N'hésitez pas à vous inscrire sur le lien covoiturage - ci-dessous- pour trouver une voiture qui vous montera la-haut. Les horaires sont disponibles ici : https://www.oui.sncf/train/horaires/grenoble/gap
 
 Covoiturage
 ====
 
-Nous ne saurions que vous recommander chacun des invités. N'hésitez pas à faire connaissance en covoiturant pour venir et repartir du Percy. C'est plus écologique !
+Nous ne saurions que vous recommander chacun des invités. N'hésitez pas à faire connaissance en covoiturant pour venir et repartir du Percy. C'est plus écologique et bien plus sympathique !
 Pour proposer et demander des places de covoiturage, suivre le lien suivant :
 
 <ul class="actions">
