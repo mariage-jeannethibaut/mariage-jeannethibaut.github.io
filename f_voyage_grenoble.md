@@ -35,3 +35,8 @@ Caves de la Chartreuse
 
 Ami buveur, tu es ici le bienvenu. Viens visiter les caves de la chartreuse à Voiron pour découvrir le secret de la fabrication de ce breuvage au goût de dentifrice qui fait le bonheur du palais de Jeanne.
 
+Dans le Trièves
+====
+
+Quelques belles balades en raquettes sont accessibles à proximité du lieu du mariage, telles que le pas de Bachasson. Pour les plus téméraires d'entre vous, vous pourrez toujours monter au Mont Aiguille, dans les pas des premiers alpinistes en 1492.
+
