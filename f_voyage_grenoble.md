@@ -17,7 +17,7 @@ Côté boustifaille, Thibaut ne saurait que vous conseiller le glacier l'arche a
 La Grave
 ====
 
-<p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span> Pour les mordus de cascade de glace ou de ski hors piste sur un domaine non balisé, la Grave est faite pour vous. Accessible en bus et en voiture depuis Grenoble, vous pourrez faire la connaissance de la reine Meije, qui vous regarde du haut de ses . Ambiance haute montagne garantie !</p>
+<p><span class="image left"><img src="{% link assets/images/cascade_de_glace.jpg %}" alt="" /></span> Pour les mordus de cascade de glace ou de ski hors piste sur un domaine non balisé, la Grave est faite pour vous. Accessible en bus et en voiture depuis Grenoble, vous pourrez faire la connaissance de la reine Meije, qui vous regarde du haut de ses . Ambiance haute montagne garantie !</p>
 
 Ski de fond dans le Vercors
 ====
@@ -28,4 +28,10 @@ Les stations de ski
 ====
 
 Il est aisé d'aller skier dans les stations de Belledonne ou de l'Oisans à partir de Grenoble, l'Alpes d'Huez, les deux Alpes, les 7 laux, nombreuses destinations possibles. 
+
+
+Caves de la Chartreuse
+====
+
+Ami buveur, tu es ici le bienvenu. Viens visiter les caves de la chartreuse à Voiron pour découvrir le secret de la fabrication de ce breuvage au goût de dentifrice qui fait le bonheur du palais de Jeanne.
 
