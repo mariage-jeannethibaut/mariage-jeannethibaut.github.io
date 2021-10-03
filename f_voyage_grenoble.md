@@ -17,7 +17,7 @@ Côté boustifaille, Thibaut ne saurait que vous conseiller le glacier l'arche a
 La Grave
 ====
 
-<p><span class="image left"><img src="{% link assets/images/cascade_de_glace.jpg %}" alt="" /></span> Pour les mordus de cascade de glace ou de ski hors piste sur un domaine non balisé, la Grave est faite pour vous. Accessible en bus et en voiture depuis Grenoble, vous pourrez faire la connaissance de la reine Meije, qui vous regarde du haut de ses . Ambiance haute montagne garantie !</p>
+<p><span class="image left"><img src="{% link assets/images/cascade_de_glace.jpg %}" alt="" /></span> Pour les mordus de cascade de glace ou de ski hors piste sur un domaine non balisé, la Grave est faite pour vous. Accessible en bus (direction Briançon) et en voiture depuis Grenoble, vous pourrez faire la connaissance de la reine Meije, qui vous toise du haut de ses 3983 mètres. Ambiance haute montagne garantie !</p>
 
 Ski de fond dans le Vercors
 ====
