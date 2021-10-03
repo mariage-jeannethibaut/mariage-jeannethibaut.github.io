@@ -2,31 +2,30 @@
 layout: post
 title: Que faire à Grenoble ?
 description: Des idées d'activités pour passer quelques jours, voir une semaine dans les environs de Grenoble quand on vient de loin
-image: assets/images/grenoble_clelles.jpg
 nav-menu: true
 ---
 
-En train
+
+
+A Grenoble
 ====
 
-A partir de la gare de la gare de Grenoble, vous pouvez emprunter la splendide ligne Grenoble-Gap, et descendre à l'arrêt Monestier pour la cérémonie religieuse, et à l'arrêt Clelles pour le cocktail et la soirée. Clelles se trouve à 5 km du lieu de réception.
+Si vous êtes de passage à Grenoble en hiver, vous avez déjà de la chance car vous évitez la torpeur des journées grenobloises estivales. N'hésitez pas à aller vous dégourdier les jambes à la Bastille, vue imprenable garantie sur Grenoble et les montagnes autour.
 
-N'hésitez pas à vous inscrire sur le lien covoiturage - ci-dessous- pour trouver une voiture qui vous montera la-haut. Les horaires sont disponibles ici : https://www.oui.sncf/train/horaires/grenoble/gap
+Côté boustifaille, Thibaut ne saurait que vous conseiller le glacier l'arche aux fruits (6 Rue Diodore Rahoult), ainsi que la pizzeria Toscana ou la chandelle. Jeanne, plus distinguée, vous proposera le Per Gras. Au menu, cuisine gastronomique, gratin dauphinois et tarifs salés !
 
-Covoiturage
+La Grave
 ====
 
-Nous ne saurions que vous recommander chacun des invités. N'hésitez pas à faire connaissance en covoiturant pour venir et repartir du Percy. C'est plus écologique et bien plus sympathique !
-Pour proposer et demander des places de covoiturage, suivre le lien suivant :
+<p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span> Pour les mordus de cascade de glace ou de ski hors piste sur un domaine non balisé, la Grave est faite pour vous. Accessible en bus et en voiture depuis Grenoble, vous pourrez faire la connaissance de la reine Meije, qui vous regarde du haut de ses . Ambiance haute montagne garantie !</p>
 
-<ul class="actions">
-	<li><a href="https://lite.framacalc.org/9pxt-mariage-de-jeanne-et-thibaut" class="button">Framacalc</a></li>
-</ul>
-
-Stationnement
+Ski de fond dans le Vercors
 ====
 
-<p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span>Inclure un plan du Percy indiquant les places de stationnement.
-Les places de parking sont limitées (expliquer comment se garer).</p>
+Blablabla
 
+Les stations de ski
+====
+
+Il est aisé d'aller skier dans les stations de Belledonne ou de l'Oisans à partir de Grenoble, l'Alpes d'Huez, les deux Alpes, les 7 laux, nombreuses destinations possibles. 
 
