@@ -2,6 +2,7 @@
 layout: post
 title: Que faire à Grenoble ?
 description: Des idées d'activités pour passer quelques jours, voir une semaine dans les environs de Grenoble quand on vient de loin
+image: assets/images/grenoble.jpg
 nav-menu: true
 ---
 
