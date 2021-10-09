@@ -2,6 +2,7 @@
 layout: post
 title: Hébergements
 description: Où dormir
+image: assets/images/hotel.jpg
 nav-menu: true
 ---
 
