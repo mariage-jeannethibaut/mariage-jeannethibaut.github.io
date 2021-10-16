@@ -11,4 +11,4 @@ Vous pensiez vraiment qu'on allait vous le donner?
 
 (patates)
 
-Signalez nous quand même si vous êtes végétariens.
+Les végétariennes ou végétariens, signalez-nous à vous. Vous serez parqués à une seule et même table. Plus sérieusement, n'hésitez pas à nous envoyer un mail afin de prévoir les quantités pour le menu végétarien.
