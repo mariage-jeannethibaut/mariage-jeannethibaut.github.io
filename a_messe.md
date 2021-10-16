@@ -13,4 +13,7 @@ Vous êtes toutes et tous les bienvenus pour nous entourer lors de notre engagem
 
 Nous serions heureux que vous chantiez de plein cœur avec nous : il y aura une répétition à 14h dans l'Eglise. Venez nombreux !
 
-Par ailleurs, nous prendrons le Credo en latin version longue. Pour celles ou ceux qui auraient besoin d'une relecture préalable, lien ci-joint (envoyer vers une chanson trop débile ? !)
+Par ailleurs, nous prendrons le Credo en latin version longue. Pour celles ou ceux qui auraient besoin d'une relecture préalable, lien ci-joint:
+<ul class="actions">
+	<li><a href="https://www.youtube.com/watch?v=-xSORIDw1Sg" class="button">Lien</a></li>
+</ul>
