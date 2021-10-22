@@ -7,7 +7,7 @@ nav-menu: true
 ---
 
 
-La messe de mariage aura lieu à l'église de Monestier de Clermont (38650) à 15h et sera célébrée par Romain Subtil.
+La messe de mariage aura lieu à l'église de Clelles (38930) à 15h et sera célébrée par Romain Subtil.
 
 Vous êtes toutes et tous les bienvenus pour nous entourer lors de notre engagement, nous serons hereux de votre présence, que vous soyez croyant ou non. Il y aura de supers musiciennes et musiciens !
 
