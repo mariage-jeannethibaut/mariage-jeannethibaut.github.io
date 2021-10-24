@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Menu et allergènes
+title: Menu
 nav-menu: true
 ---
 
