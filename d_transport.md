@@ -26,6 +26,7 @@ Pour proposer et demander des places de covoiturage, suivre le lien suivant :
 Stationnement
 ====
 
-<p><span class="image left"><img src="{% link assets/images/parking_mariage.jpg %}" alt="" /></span>Les places de parking sont limitées au Percy comme en témoigne le plan du village ci-contre. Il indique également les places de parking disponibles. Pour ceux qui viennent en voiture, pouvez-vous vous signaler à ... afin de coordonner le stationnement. </p>
+<span class="image fit"><img src="{% link assets/images/parking_mariage.jpg %}" alt="" /></span>
+Les places de parking sont limitées au Percy comme en témoigne le plan du village ci-dessus. Le plan vous indique les places de parking disponibles et leur emplacement. Pour ceux qui viennent en voiture, pouvez-vous vous signaler à ... afin de coordonner le stationnement.
 
 
