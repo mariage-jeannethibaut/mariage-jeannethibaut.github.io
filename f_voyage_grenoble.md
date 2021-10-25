@@ -15,7 +15,7 @@ Si vous êtes de passage à Grenoble en hiver, vous avez déjà de la chance car
 
 Côté boustifaille, Thibaut ne saurait que vous conseiller le glacier l'arche aux fruits (6 Rue Diodore Rahoult), ainsi que la pizzeria Toscana ou la chandelle. Jeanne, plus distinguée, vous proposera le Per Gras. Au menu, cuisine gastronomique, gratin dauphinois et tarifs salés !
 
-La bonne pioche 
+Pour celles ou ceux qui ne connaitraient pas encore, nous ne saurions que vous conseiller d'aller faire un tour à La Bonne Pioche, LE magasin incontournable de Grenoble ! Épicerie coopérative bio, locale, en vrac, de saison, qui accepte autant les cairns (monnaie locale grenobloise) que les messages codés que vous voudriez leur confier pour l’organisation de chasse aux trésors... Vous y trouverez tout ce qu'il vous faut, rien que ce qu'il vous faut, et surtout trois jeunes vendeuses et vendeurs tous plus sympathiques les uns que les autres ! Pour plus de renseignement, s'adresser à Anne Lortat-Jacob, 1ère grande fan et 1ère cliente , qui saura vous en faire la promotion encore mieux que nous !
 
 La Grave
 ====
