@@ -2,7 +2,7 @@
 layout: post
 title: Messe de mariage
 description: Horaires et organisation de la messe
-image: assets/images/eglise_monestier.jpg
+image: assets/images/clelles.jpg
 nav-menu: true
 ---
 
