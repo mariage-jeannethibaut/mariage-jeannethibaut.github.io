@@ -11,7 +11,7 @@ En train
 
 A partir de la gare de la gare de Grenoble, vous pouvez emprunter la splendide ligne Grenoble-Gap, et descendre à l'arrêt Clelles. La gare se trouve à moins de 2km de l'église. 
 
-Clelles se trouve à 5 km du lieu de réception. Nous vous conseillons de vous inscrire sur le lien covoiturage - ci-dessous- pour trouver une voiture qui vous montera la-haut. Les horaires sont disponibles : <a href="https://www.oui.sncf/train/horaires/grenoble/gap">ici</a> .
+Clelles se trouve à 5 km du lieu de réception. Nous vous conseillons de vous inscrire sur le lien covoiturage - ci-dessous- pour trouver une voiture qui vous montera la-haut. Les horaires sont disponibles <a href="https://www.oui.sncf/train/horaires/grenoble/gap">ici</a> .
 
 Covoiturage
 ====
