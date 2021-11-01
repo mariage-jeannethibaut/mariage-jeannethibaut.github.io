@@ -11,7 +11,7 @@ En train
 
 A partir de la gare de la gare de Grenoble, vous pouvez emprunter la splendide ligne Grenoble-Gap, et descendre à l'arrêt Clelles. La gare se trouve à moins de 2km de l'église. 
 
-Clelles se trouve à 5 km du lieu de réception. Nous vous conseillons de vous inscrire sur le lien covoiturage - ci-dessous- pour trouver une voiture qui vous montera la-haut. Les horaires sont disponibles ici : https://www.oui.sncf/train/horaires/grenoble/gap
+Clelles se trouve à 5 km du lieu de réception. Nous vous conseillons de vous inscrire sur le lien covoiturage - ci-dessous- pour trouver une voiture qui vous montera la-haut. Les horaires sont disponibles : <a href="https://www.oui.sncf/train/horaires/grenoble/gap">ici</a> .
 
 Covoiturage
 ====
@@ -27,6 +27,6 @@ Stationnement
 ====
 
 <span class="image fit"><img src="{% link assets/images/parking_mariage.jpg %}" alt="" /></span>
-Les places de parking sont limitées au Percy comme en témoigne le plan du village ci-dessus. Le plan vous indique les places de parking disponibles et leur emplacement. Pour ceux qui viennent en voiture, pouvez-vous vous signaler à ... afin de coordonner le stationnement.
+Les places de parking sont limitées au Percy comme en témoigne le plan du village ci-dessus. Le plan vous indique les places de parking disponibles et leur emplacement. Pour ceux qui viennent en voiture, pouvez-vous vous signaler à hugues.lortat-jacob@laposte.net afin de coordonner le stationnement.
 
 
