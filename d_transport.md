@@ -16,7 +16,7 @@ Clelles se trouve à 5 km du lieu de réception. Nous vous conseillons de vous i
 Covoiturage
 ====
 
-Nous ne saurions que vous recommander chacun des invités. N'hésitez pas à faire connaissance en covoiturant pour venir et repartir du Percy. C'est plus écologique et bien plus sympathique !
+Les invités sont tous fort sympathiques. N'hésitez pas à faire connaissance en covoiturant pour venir et repartir du Percy. C'est plus écologique et bien plus sympathique !
 Pour proposer et demander des places de covoiturage, suivre le lien suivant :
 
 <ul class="actions">
