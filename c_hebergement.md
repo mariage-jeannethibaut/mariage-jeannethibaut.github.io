@@ -6,7 +6,7 @@ image: assets/images/hotel.jpg
 nav-menu: true
 ---
 
-<p>De nombreux gîtes et hôtels sont ouverts dans la région à des prix abordables. Pour faciliter votre recherche, nous vous avons préparé une liste des hébergements:</p>
+<p>Pour faciliter votre recherche de gîtes ou hôtels dans la région, nous vous avons préparé une liste :</p>
 
 <ul class="actions">
 	<li><a href="https://lite.framacalc.org/9qua-hebergements-mariage-jeanne-et-thibaut" class="button">Lien</a></li>
