@@ -5,8 +5,8 @@ image: assets/images/liste_mariage.jpg
 nav-menu: true
 ---
 
-Votre plus beau cadeau sera déjà de vous compter à nos côtés le 19 février. Si vous souhaitez nous offrir un cadeau pour notre mariage, nous avons choisi deux associations qui nous tiennent à coeur auxquelles vous pouvez adresser un don (déductible de l'impôt sur le revenu et de l'ISI), merci pour eux :
-- Emmaüs : <a href="https://soutenir.emmaus-france.org/b/mon-don">https://soutenir.emmaus-france.org/b/mon-don</a>. Nous apprécions leur proposition de vie de communauté et la réintégration par le travail.
-- Terre de Liens : <a href="https://terredeliens.org/-aider-les-paysans-a-s-installer-.html">https://terredeliens.org/-aider-les-paysans-a-s-installer-.html</a>. Cette association rachète du foncier agricole pour le louer à des agriculteurs pour une activité locale et respectueuse de l'environnement.
+Votre venue est déjà un très grand cadeau pour nous ! Si vous souhaitez nous offrir un cadeau pour notre mariage, nous serions heureux que vous contribuiez par un don à faire vivre ces deux associations dont la cause et l'activité nous tiennent à coeur :
+- Emmaüs : <a href="https://soutenir.emmaus-france.org/b/mon-don">https://soutenir.emmaus-france.org/b/mon-don</a>. En offrant une vie en communauté et un travail aux personnes en grande précarité, Emmaüs contribue à changer notre regard sur les personnes de la rue, et oeuvre pour la justice sociale.
+- Tara Oceans : <a href="https://fondationtaraocean.org/">https://fondationtaraocean.org/</a>. Tara Oceans mène des recherches sur l'océan à partir d'un voilier et mène des campagnes de sensibilisation. Ses missions sont la protection de la biodiversité marine face à la pollution et la compréhension de l'impact des changements climatiques sur l'écosystème marin.
 
-Nous avons également fait une liste de mariage si vous souhaitez nous offrir des cadeaux pour notre installation, merci d'avance : <a href="https://www.milirose.com/liste-cadeaux-264669.html">https://www.milirose.com/liste-cadeaux-264669.html</a>.
+Par ailleurs, nous emménageons ensemble. Si vous souhaitez nous aider à nous installer, voici quelques idées auxquelles nous avons pensées : <a href="https://www.milirose.com/liste-cadeaux-264669.html">https://www.milirose.com/liste-cadeaux-264669.html</a>.
